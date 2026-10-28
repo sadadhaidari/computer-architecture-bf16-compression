@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.vvp
+vectors.txt
+synthesized.v
+synthesis-stat.json
+report/*.log
+report/*.aux
+report/*.out
+report/main.pdf
